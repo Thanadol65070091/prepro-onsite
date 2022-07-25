@@ -1,6 +1,6 @@
 """This is docstring"""
 def main():
-    """This is docstring"""
+    """Hello from github"""
     money = int(input())
     water = int(input())
     snac1 = int(input())
